@@ -1,7 +1,7 @@
 {
   
   "Outfits": [
-    {"name":"Outfit1","Outerwear":"Black and White Varsity Jacket","Tops":"White Crop Top","Bottoms":"Black Cargo Pants","Shoes":"White Sneakers","Accessories":"Black Sunglasses","OutfitImage":"https://i.pinimg.com/564x/e4/3e/be/e43ebe9da54a49c5a3eb2887cc9e377c.jpg"},
+    {"name":"Outfit1","Outerwear":"Black and White Varsity Jacket","Tops":"White Crop Top","Bottoms":"Black Cargo Pants","Shoes":"White Sneakers","Accessories":"Black Sunglasses","OutfitImage":"hhttps://raw.githubusercontent.com/nadianegash/IT315Project/main/outfit1.jpeg"},
     {"name":"Outfit2","Outerwear":"White and Black Checkered Sweater Vest","Tops":"White Longsleeves Turtleneck","Bottoms":"Khaki Jeans","Shoes":"White Platform Heals","Accessories":"White Shoulder Bag and White Bandana","OutfitImage":"https://raw.githubusercontent.com/nadianegash/IT315Project/main/outfit2.jpeg"},
     {"name":"Outfit3","Outerwear":"None","Tops":"Brown Longsleeves Top","Bottoms":"Brown Plaid Skirt", "Shoes":"Black Platform Sandals","Accessories":"High Knee White Socks","OutfitImage":"https://raw.githubusercontent.com/nadianegash/IT315Project/main/outfit3.jpeg"},
     {"name":"Outfit4","Outerwear":"None","Tops":"Colorful Striped Cropped Sweater","Bottoms":"Flared Lightwash Jeans","Shoes":"Black Platform Sneakers","Accessories":"Black Shoulder Bag","OutfitImage":"https://raw.githubusercontent.com/nadianegash/IT315Project/main/outfit4.jpeg"},
